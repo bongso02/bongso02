@@ -1,4 +1,3 @@
-/*! For license information please see lotus-player.bundle.js.LICENSE.txt */
 !function(e, t) {
     if ("object" == typeof exports && "object" == typeof module)
         module.exports = t();
